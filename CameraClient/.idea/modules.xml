@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraClient.iml" filepath="$PROJECT_DIR$/CameraClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraClient-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraClient-app.iml" group="CameraClient/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-camera-socket-stream-CameraClient.iml" filepath="$PROJECT_DIR$/.idea/modules/android-camera-socket-stream-CameraClient.iml" group="CameraClient" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
